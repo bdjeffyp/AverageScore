@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.pdb
